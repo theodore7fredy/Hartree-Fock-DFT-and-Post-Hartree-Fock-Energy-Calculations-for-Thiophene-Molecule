@@ -8,6 +8,7 @@
 Thiophene is an aromatic heterocyclic compound commonly used as a benchmark system in computational chemistry. This project focuses on:
 
 - Generating the 2D structure of thiophene using **RDKit**.
+- Generating the 3D structure of thiophene using **pyscf**.
 - Computing electronic energies using **HF**, **DFT** (with selected functionals), and **post-Hartree-Fock methods** (e.g., MP2, CCSD).
 - Exploring the impact of basis sets (e.g., STO-3G, 6-31G, cc-pVDZ, etc.) on the calculated energies.
 
@@ -28,3 +29,5 @@ To run this project, ensure you have the following dependencies installed:
   - Py3Dmol
 
 ---
+## How to Run
+Download the notebook and install all required dependencies.
